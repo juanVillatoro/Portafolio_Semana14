@@ -8,17 +8,17 @@
         
         <!-- Generalidades de la asignatura -->
         <b-nav-item-dropdown class="btn btn-dark" type="light" text="Generalidad" right>
-          <b-dropdown-item to="/">Descripción</b-dropdown-item>
-          <b-dropdown-item to="/">Contenidos</b-dropdown-item>
-          <b-dropdown-item to="/">Jornalización</b-dropdown-item>
-          <b-dropdown-item to="/">Calendarización</b-dropdown-item>
+          <b-dropdown-item to="/descripcion">Descripción</b-dropdown-item>
+          <b-dropdown-item to="/contenidos">Contenidos</b-dropdown-item>
+          <b-dropdown-item to="/jornalizacion">Jornalización</b-dropdown-item>
+          <b-dropdown-item to="/calendarizacion">Calendarización</b-dropdown-item>
         </b-nav-item-dropdown>
 
         <!-- Apartado para agregar datos de mi persona -->
-        <b-nav-item class="btn btn-dark" type="light" to="/">Acerca de mí</b-nav-item>
+        <b-nav-item class="btn btn-dark" type="light" to="/aboutme">Acerca de mí</b-nav-item>
 
         <!-- Apartado para agregar las conclusiones generales de los contenidos -->
-        <b-nav-item class="btn btn-dark" type="light" to="/">Conclusiones</b-nav-item>
+        <b-nav-item class="btn btn-dark" type="light" to="/conclusiones">Conclusiones</b-nav-item>
         
       </b-navbar-nav>
 
@@ -55,44 +55,44 @@
                     class="border-1 bg-light">
                     Cómputo I
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#">
+                  <b-list-group-item class="border-1 bg-light" to="/">
                     Semana 1
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 2
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 3
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 4
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 5
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 6
                   </b-list-group-item>
                   <b-list-group-item
                     class="border-1 bg-light">
                     Cómputo II
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 7
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 8
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 9
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 10
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 11
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" href="#"
+                  <b-list-group-item class="border-1 bg-light" to="/"
                     >Semana 12
                   </b-list-group-item>
                 </b-list-group>

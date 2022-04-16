@@ -1,15 +1,15 @@
 <template>
-    <div id="contenido">
+    <div>
         <br>
-        <intro/>
+        <introduccion-component/>
     </div>
 </template>
 
 <script>
-import Intro from '../components/IntroduccionComponent.vue'
+import IntroduccionComponent from '../components/IntroduccionComponent.vue'
 
 export default {
     name: 'IntroduccionView',
-    components: { Intro }
+    components: { IntroduccionComponent }
 }
 </script>

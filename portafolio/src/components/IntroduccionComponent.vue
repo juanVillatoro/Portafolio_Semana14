@@ -11,7 +11,7 @@
 
         <br>
         <!-- Contenido del componente -->
-        <b-container class="justify-content-md-center" style="font-family: Avenir, Helvetica, Arial, sans-serif; font-size: 20px" >
+        <b-container style="font-family: Avenir, Helvetica, Arial, sans-serif; font-size: 20px; text-align: justify" >
 
             <p>
             Para esta actividad se solicitó que el estudiante realizara una página web a mano donde incluyera 
@@ -19,6 +19,7 @@
             que desee y desarrollarla con los conocimientos que ha ido obteniendo a lo largo del tiempo. 
             </p>
 
+            <!-- Espacio entre contenido -->
             <hr size="1" />
 
             <p>
@@ -29,21 +30,16 @@
             distribución y se vea ordenada.
             </p>
 
-            <div alt="Final">
-            <b-img src="https://disenowebakus.net/imagenes/articulos/elementos-sitio-web.jpg"></b-img>
-            </div>
-            
         </b-container>
 
-        
-        
-        
+        <hr size="1" />
 
-        
+        <!-- Imagen -->
+        <div alt="Final">
+        <b-img src="https://disenowebakus.net/imagenes/articulos/elementos-sitio-web.jpg"></b-img>
+        </div>
 
     </div>
-    
-
 </template>
 
 <script>
