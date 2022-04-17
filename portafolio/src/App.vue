@@ -35,7 +35,7 @@
 
             <!-- Apartado para las tareas ex-aula -->
             <div>
-              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/">Tareas ex-aula</b-button>
+              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/bitacora/tareas-exaula">Tareas ex-aula</b-button>
             </div>
 
             <hr size="1" />
@@ -55,45 +55,42 @@
                     class="border-1 bg-light">
                     Cómputo I
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/">
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana1">
                     Semana 1
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 2
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana2">
+                    Semana 2
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 3
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana3">
+                    Semana 3
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 4
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana4">
+                    Semana 4
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 5
-                  </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 6
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana5">
+                    Semana 5
                   </b-list-group-item>
                   <b-list-group-item
                     class="border-1 bg-light">
                     Cómputo II
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 7
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana7">
+                    Semana 7
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 8
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana8">
+                    Semana 8
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 9
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana9">
+                    Semana 9
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 10
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana10">
+                    Semana 10
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 11
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana11">
+                    Semana 11
                   </b-list-group-item>
-                  <b-list-group-item class="border-1 bg-light" to="/"
-                    >Semana 12
+                  <b-list-group-item class="border-1 bg-light" to="/bitacora/investigaciones/semana12">
+                    Semana 12
                   </b-list-group-item>
                 </b-list-group>
               </b-collapse>
@@ -104,7 +101,7 @@
 
             <!-- Apartado para prácticas desarrolladas -->
             <div>
-              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/">Prácticas desarrolladas</b-button>
+              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/bitacora/practicas">Prácticas desarrolladas</b-button>
             </div>
 
             <hr size="1" />
@@ -112,7 +109,7 @@
             <!-- Apartado para los laboratorios realizados -->
             
             <div>
-              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/">Laboratorios desarrollados</b-button>
+              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/bitacora/labs">Laboratorios desarrollados</b-button>
             </div>
 
             <hr size="1" />
@@ -120,10 +117,16 @@
             <!-- Apartado para los proyectos grupales -->
 
             <div>
-              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/">Proyectos grupales</b-button>
+              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/bitacora/proygrupales">Proyectos grupales</b-button>
             </div>
 
             <!-- Apartado para los materiales de apoyo -->
+
+            <hr size="1" />
+
+            <div>
+              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/bitacora/materialapoyo">Materiales de Apoyo</b-button>
+            </div>
 
           
           </div>
