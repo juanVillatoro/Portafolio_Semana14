@@ -33,11 +33,6 @@
         <b-sidebar id="sidebar-1-variant" title="Bitácora de Aprendizaje" shadow>
           <div class="px-3 py-2">
 
-            <!-- Apartado para las tareas ex-aula -->
-            <div>
-              <b-button class="w-100 btn btn-dark" style="text-align: center" to="/bitacora/tareas-exaula">Tareas ex-aula</b-button>
-            </div>
-
             <hr size="1" />
 
             <!-- Button collapse para las investigaciones del contenido -->
